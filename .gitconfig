@@ -8,3 +8,8 @@
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
+	dfgsdfgsdf
+	sdfgsdfgsfd
+	sdfgsdfgsfdsdfg
+	dsafgsdfg
+	sdfgsdfgsfd
